@@ -1,0 +1,6 @@
+@Getri_API_LstEmployees_HostAddress = http://localhost:5199
+
+GET {{Getri_API_LstEmployees_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
